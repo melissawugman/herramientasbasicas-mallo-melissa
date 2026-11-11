@@ -15,6 +15,8 @@ Se utilizó el conjunto de datos *Machine Learning & Habit Formation*, relaciona
 
 Debido al tamaño del dataset original, se seleccionó una muestra aleatoria de 100.000 registros para realizar el análisis.
 
+Fuente del dataset: https://osf.io/m8gdp/overview
+
 ## 3. Herramientas utilizadas
 
 - Python: pandas, matplotlib y seaborn.
