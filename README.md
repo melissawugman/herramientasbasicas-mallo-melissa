@@ -42,7 +42,18 @@ Los códigos de días 2 y 3 presentaron las mayores tasas de asistencia. Enero r
 
 Se desarrolló un dashboard en Power BI con indicadores principales, gráficos comparativos y filtros interactivos por año y mes.
 
-## 7. Autor
+## 7. Alcance y limitaciones
+
+El análisis se realizó sobre una muestra aleatoria de 100.000 registros del conjunto de datos original. Esta selección permitió trabajar con un volumen de información adecuado para realizar el procesamiento y la visualización en Python y Power BI.
+
+Los resultados describen los patrones observados en la muestra y no deben interpretarse como una explicación de las causas de asistencia o inasistencia. Además, los días de la semana se presentan mediante códigos numéricos, ya que no se contó con una correspondencia verificada para asignarles nombres.
+
+## 8. Conclusión
+
+El proyecto permitió aplicar herramientas de análisis de datos en un proceso completo, desde la preparación y limpieza de la información hasta la elaboración de visualizaciones y un dashboard interactivo. Los resultados muestran diferencias en las tasas de asistencia según el día de la semana y el mes, y permiten identificar patrones temporales que pueden servir como punto de partida para futuros análisis.
+
+
+## 9. Autor
 
 Melissa Mallo Wugman
 
